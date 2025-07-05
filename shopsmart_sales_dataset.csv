@@ -1,0 +1,51 @@
+Order ID,Date,Customer Name,Product,Category,Quantity,Unit Price,Total Price,Payment Mode,Store Location
+ORD001,2025-06-26,Amira Sura,Jeans,Apparel,3,1299,3897,UPI,Jaipur
+ORD002,2025-06-30,Tara Sama,Bluetooth Speaker,Electronics,3,1499,4497,Debit Card,Bengaluru
+ORD003,2025-06-30,Tara Bera,Laptop Stand,Accessories,3,799,2397,Credit Card,Kolkata
+ORD004,2025-07-02,Pari Dave,Backpack,Accessories,3,1199,3597,Credit Card,Ahmedabad
+ORD005,2025-07-02,Nishith Tandon,Headphones,Electronics,1,1999,1999,Credit Card,Pune
+ORD006,2025-06-26,Aarush Brar,Water Bottle,Lifestyle,3,299,897,Cash,Jaipur
+ORD007,2025-07-04,Hunar Brar,Mouse,Electronics,3,499,1497,Cash,Chandigarh
+ORD008,2025-07-04,Dishani Bora,Pen Set,Stationery,1,149,149,Credit Card,Hyderabad
+ORD009,2025-06-26,Shaan Ramesh,Water Bottle,Lifestyle,1,299,299,Cash,Kolkata
+ORD010,2025-07-03,Aayush Bhavsar,Laptop Stand,Accessories,2,799,1598,Credit Card,Lucknow
+ORD011,2025-07-01,Yasmin Sood,Backpack,Accessories,3,1199,3597,Debit Card,Hyderabad
+ORD012,2025-06-28,Jivin Biswas,Backpack,Accessories,1,1199,1199,UPI,Jaipur
+ORD013,2025-06-30,Sumer Badami,Headphones,Electronics,3,1999,5997,Debit Card,Pune
+ORD014,2025-06-28,Ivana Bir,Notebook,Stationery,3,99,297,UPI,Pune
+ORD015,2025-06-27,Misha Chanda,Power Bank,Electronics,3,899,2697,Debit Card,Hyderabad
+ORD016,2025-07-03,Mahika Goyal,Laptop Stand,Accessories,3,799,2397,Debit Card,Mumbai
+ORD017,2025-06-29,Aaryahi Manne,Mouse,Electronics,2,499,998,Cash,Jaipur
+ORD018,2025-06-26,Rania Guha,Bluetooth Speaker,Electronics,3,1499,4497,Debit Card,Pune
+ORD019,2025-06-29,Vardaniya Srinivasan,Laptop Stand,Accessories,3,799,2397,Credit Card,Jaipur
+ORD020,2025-07-04,Divit Sankaran,Smartwatch,Electronics,2,2499,4998,Debit Card,Hyderabad
+ORD021,2025-07-01,Heer Char,Smartwatch,Electronics,2,2499,4998,Cash,Chandigarh
+ORD022,2025-06-28,Alia Dutta,Backpack,Accessories,1,1199,1199,Debit Card,Hyderabad
+ORD023,2025-06-30,Sumer Karnik,Backpack,Accessories,1,1199,1199,Debit Card,Delhi
+ORD024,2025-06-27,Kaira Mahajan,T-shirt,Apparel,3,499,1497,UPI,Chandigarh
+ORD025,2025-06-25,Nitara Devi,Laptop Stand,Accessories,2,799,1598,Debit Card,Lucknow
+ORD026,2025-06-28,Arhaan Raju,Laptop Stand,Accessories,1,799,799,Credit Card,Chandigarh
+ORD027,2025-06-30,Hazel Srivastava,Notebook,Stationery,3,99,297,Debit Card,Jaipur
+ORD028,2025-07-04,Vedika Dhaliwal,Bluetooth Speaker,Electronics,2,1499,2998,Credit Card,Hyderabad
+ORD029,2025-06-27,Yasmin Thakur,T-shirt,Apparel,3,499,1497,Credit Card,Mumbai
+ORD030,2025-07-04,Farhan Zachariah,Notebook,Stationery,3,99,297,UPI,Mumbai
+ORD031,2025-06-27,Kabir Khurana,Laptop Stand,Accessories,3,799,2397,Cash,Ahmedabad
+ORD032,2025-07-03,Saanvi Vig,Laptop Stand,Accessories,3,799,2397,Cash,Jaipur
+ORD033,2025-06-27,Nishith Malhotra,Jeans,Apparel,1,1299,1299,UPI,Ahmedabad
+ORD034,2025-06-25,Tushar Mander,Keyboard,Electronics,3,999,2997,Credit Card,Ahmedabad
+ORD035,2025-06-25,Piya Comar,Power Bank,Electronics,1,899,899,Cash,Ahmedabad
+ORD036,2025-07-03,Anaya Devan,Mouse,Electronics,1,499,499,Cash,Chandigarh
+ORD037,2025-06-25,Khushi Gandhi,Shoes,Footwear,3,1799,5397,UPI,Delhi
+ORD038,2025-07-03,Renee Ramaswamy,Water Bottle,Lifestyle,1,299,299,UPI,Hyderabad
+ORD039,2025-07-04,Mannat Mand,Water Bottle,Lifestyle,1,299,299,Cash,Hyderabad
+ORD040,2025-07-04,Kaira Dada,Bluetooth Speaker,Electronics,3,1499,4497,UPI,Mumbai
+ORD041,2025-06-29,Aaryahi Desai,Bluetooth Speaker,Electronics,1,1499,1499,Debit Card,Lucknow
+ORD042,2025-06-25,Azad Walla,Headphones,Electronics,2,1999,3998,UPI,Mumbai
+ORD043,2025-06-29,Taran Wali,Shoes,Footwear,2,1799,3598,UPI,Hyderabad
+ORD044,2025-07-01,Elakshi Roy,Water Bottle,Lifestyle,2,299,598,Debit Card,Mumbai
+ORD045,2025-06-26,Mishti Sibal,Pen Set,Stationery,2,149,298,Credit Card,Ahmedabad
+ORD046,2025-07-01,Ishaan Chadha,Keyboard,Electronics,1,999,999,Cash,Delhi
+ORD047,2025-06-25,Kanav Chhabra,Backpack,Accessories,1,1199,1199,Debit Card,Lucknow
+ORD048,2025-06-26,Saira Agarwal,Pen Set,Stationery,2,149,298,Debit Card,Delhi
+ORD049,2025-07-03,Shray Kamdar,Backpack,Accessories,1,1199,1199,UPI,Ahmedabad
+ORD050,2025-06-25,Hansh Wable,Power Bank,Electronics,1,899,899,UPI,Pune
